@@ -13,3 +13,12 @@
 Написать программу banner средствами bash для вывода текстов, как в следующем примере (размер баннера должен меняться!):
 
 <img width="651" height="392" alt="image" src="https://github.com/user-attachments/assets/183ed5bd-3d21-45df-b0de-33ea55064639" />
+
+Задача 4
+Написать программу для вывода всех идентификаторов (по правилам C/C++ или Java) в файле (без повторений).
+
+Пример для hello.c:
+
+h hello include int main n printf return stdio void world
+
+<img width="972" height="275" alt="image" src="https://github.com/user-attachments/assets/5510d031-ea23-4ee8-a099-b3d9e3299c78" />
