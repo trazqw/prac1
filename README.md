@@ -10,3 +10,5 @@
 <img width="1280" height="256" alt="telegram-cloud-photo-size-2-5294366419137011366-y" src="https://github.com/user-attachments/assets/399824af-a47e-45f4-bf2f-1e71da5ef702" />
 
 Задача 3
+Написать программу banner средствами bash для вывода текстов, как в следующем примере (размер баннера должен меняться!):
+<img width="651" height="392" alt="image" src="https://github.com/user-attachments/assets/183ed5bd-3d21-45df-b0de-33ea55064639" />
