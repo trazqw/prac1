@@ -11,4 +11,5 @@
 
 Задача 3
 Написать программу banner средствами bash для вывода текстов, как в следующем примере (размер баннера должен меняться!):
+
 <img width="651" height="392" alt="image" src="https://github.com/user-attachments/assets/183ed5bd-3d21-45df-b0de-33ea55064639" />
