@@ -71,7 +71,7 @@ h hello include int main n printf return stdio void world
 
 Тестирование:
 
-<img width="727" height="101" alt="image" src="https://github.com/user-attachments/assets/44dbf9b1-a8e3-4ff7-b561-e41e4959f77e" />
-
 <img width="523" height="411" alt="image" src="https://github.com/user-attachments/assets/020c008e-423e-4a17-9a94-806e51fb73f3" />
+
+<img width="727" height="101" alt="image" src="https://github.com/user-attachments/assets/44dbf9b1-a8e3-4ff7-b561-e41e4959f77e" />
 
