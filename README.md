@@ -13,9 +13,11 @@
 Написать программу banner средствами bash для вывода текстов, как в следующем примере (размер баннера должен меняться!):
 
 banner:
+
 <img width="622" height="248" alt="image" src="https://github.com/user-attachments/assets/19039c84-0c9d-4986-b5e9-3fdea5fc5d3f" />
 
 Тестирование:
+
 <img width="651" height="392" alt="image" src="https://github.com/user-attachments/assets/183ed5bd-3d21-45df-b0de-33ea55064639" />
 
 Задача 4.
