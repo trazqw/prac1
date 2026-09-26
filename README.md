@@ -51,4 +51,13 @@ h hello include int main n printf return stdio void world
 Задача 6.
 Написать программу для проверки наличия комментария в первой строке файлов с расширением c, js и py.
 
+Решение:
+Программа check_comments:
+
+<img width="776" height="534" alt="image" src="https://github.com/user-attachments/assets/efb0f254-918b-494e-b0c8-0df85fffe9ec" />
+
+Тестирование:
+
+<img width="680" height="509" alt="image" src="https://github.com/user-attachments/assets/bcfcc6ef-dde7-45ad-8331-fbfc90946b1c" />
+
 
