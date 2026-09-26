@@ -48,4 +48,7 @@ h hello include int main n printf return stdio void world
 
 <img width="547" height="158" alt="image" src="https://github.com/user-attachments/assets/bf84916d-96fd-45b0-9b9c-e436d8a26697" />
 
+Задача 6.
+Написать программу для проверки наличия комментария в первой строке файлов с расширением c, js и py.
+
 
