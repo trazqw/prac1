@@ -14,7 +14,7 @@
 
 banner:
 
-<img width="622" height="248" alt="image" src="https://github.com/user-attachments/assets/19039c84-0c9d-4986-b5e9-3fdea5fc5d3f" />
+<img width="623" height="227" alt="image" src="https://github.com/user-attachments/assets/cde70d45-f506-4a0e-abcb-f02a33b4edcb" />
 
 Тестирование:
 
