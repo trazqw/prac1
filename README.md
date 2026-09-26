@@ -10,8 +10,9 @@
 <img width="1280" height="256" alt="telegram-cloud-photo-size-2-5294366419137011366-y" src="https://github.com/user-attachments/assets/399824af-a47e-45f4-bf2f-1e71da5ef702" />
 
 Задача 3.
-Написать программу banner средствами bash для вывода текстов, как в следующем примере (размер баннера должен меняться!):
+Написать программу banner средствами bash для вывода текстов, как в следующем примере (размер баннера должен меняться!
 
+Решение:
 banner:
 
 <img width="623" height="227" alt="image" src="https://github.com/user-attachments/assets/cde70d45-f506-4a0e-abcb-f02a33b4edcb" />
@@ -28,3 +29,17 @@ banner:
 h hello include int main n printf return stdio void world
 
 <img width="972" height="275" alt="image" src="https://github.com/user-attachments/assets/5510d031-ea23-4ee8-a099-b3d9e3299c78" />
+
+Задача 5.
+Написать программу для регистрации пользовательской команды (правильные права доступа и копирование в /usr/local/bin).
+
+Например, пусть программа называется reg:
+
+./reg banner
+В результате для banner задаются правильные права доступа и сам banner копируется в /usr/local/bin.
+
+Решение:
+
+<img width="547" height="158" alt="image" src="https://github.com/user-attachments/assets/bf84916d-96fd-45b0-9b9c-e436d8a26697" />
+
+
