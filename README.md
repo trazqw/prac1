@@ -40,6 +40,12 @@ h hello include int main n printf return stdio void world
 
 Решение:
 
+<img width="258" height="105" alt="image" src="https://github.com/user-attachments/assets/8ed14627-3f8c-4f31-9330-f2c529a6f6a7" />
+
+Тестирование:
+
+<img width="940" height="507" alt="image" src="https://github.com/user-attachments/assets/6f0c50d1-d296-4bb5-bcb5-d24230aa8f26" />
+
 <img width="547" height="158" alt="image" src="https://github.com/user-attachments/assets/bf84916d-96fd-45b0-9b9c-e436d8a26697" />
 
 
