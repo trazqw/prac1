@@ -91,4 +91,14 @@ h hello include int main n printf return stdio void world
 
 <img width="313" height="140" alt="image" src="https://github.com/user-attachments/assets/3263b59e-e1df-4db8-9b8c-2f42bdfc8c6d" />
 
+Задача 9.
 
+Написать программу, которая заменяет в файле последовательности из 4 пробелов на символ табуляции. Входной и выходной файлы задаются аргументами.
+
+Создание программы:
+
+<img width="391" height="98" alt="image" src="https://github.com/user-attachments/assets/ed04c791-3891-4a38-9896-251d9b6e0409" />
+
+Тестирование:
+
+<img width="614" height="193" alt="image" src="https://github.com/user-attachments/assets/ed597728-f3f0-4ee0-8034-5d53307215ff" />
