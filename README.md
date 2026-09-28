@@ -102,3 +102,16 @@ h hello include int main n printf return stdio void world
 Тестирование:
 
 <img width="614" height="193" alt="image" src="https://github.com/user-attachments/assets/ed597728-f3f0-4ee0-8034-5d53307215ff" />
+
+Задача 10.
+
+Написать программу, которая выводит названия всех пустых текстовых файлов в указанной директории. Директория передается в программу параметром.
+
+Создание программы:
+
+<img width="474" height="103" alt="image" src="https://github.com/user-attachments/assets/79860ff8-40c8-41b9-b41b-a55d4fcc0dd9" />
+
+Тестирование:
+
+<img width="554" height="195" alt="image" src="https://github.com/user-attachments/assets/46420ba4-761a-480f-8d36-5465618ec573" />
+
