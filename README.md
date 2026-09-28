@@ -75,3 +75,20 @@ h hello include int main n printf return stdio void world
 
 <img width="727" height="101" alt="image" src="https://github.com/user-attachments/assets/44dbf9b1-a8e3-4ff7-b561-e41e4959f77e" />
 
+Задача 8.
+
+Написать программу, которая находит все файлы в данном каталоге с расширением, указанным в качестве аргумента и архивирует все эти файлы в архив tar.
+
+Создаем файлы для тестирования:
+
+<img width="356" height="39" alt="image" src="https://github.com/user-attachments/assets/046a2bf7-b5b9-47fc-96ed-59e72ad69403" />
+
+Создаем программу:
+
+<img width="609" height="71" alt="image" src="https://github.com/user-attachments/assets/f7eb0422-09f0-4606-8a6a-6ea3fdffd9d4" />
+
+Тестирование:
+
+<img width="313" height="140" alt="image" src="https://github.com/user-attachments/assets/3263b59e-e1df-4db8-9b8c-2f42bdfc8c6d" />
+
+
